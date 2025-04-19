@@ -1,0 +1,18 @@
+{
+    "name": "DI.Tests.Editor",
+    "rootNamespace": "DI.Tests.Editor",
+    "references": [
+        "GUID:52fefe08b50d5c34589cc7b50ae90bb4"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

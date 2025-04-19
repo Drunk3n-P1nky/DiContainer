@@ -1,0 +1,17 @@
+{
+    "name": "com.Drunk3nP1nky.DiContainer",
+    "version": "1.0.0",
+    "displayName": "DiContainer",
+    "description": "Dependency injection container with manual resolving.",
+    "unity": "6000.0",
+    "unityRealeas": "35f1",
+    "documentationUrl": "https://github.com/Drunk3n-P1nky/DiContainer",
+    "keywords": [
+        "DI",
+        "Dependency injection",
+        "DI Container"
+    ],
+    "author": {
+        "name": "Drunk3nP1nky"
+    }
+}
