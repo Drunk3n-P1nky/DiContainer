@@ -1,5 +1,5 @@
 {
-    "name": "com.Drunk3nP1nky.DiContainer",
+    "name": "com.drunk3np1nky.dicontainer",
     "version": "1.0.0",
     "displayName": "DiContainer",
     "description": "Dependency injection container with manual resolving.",
