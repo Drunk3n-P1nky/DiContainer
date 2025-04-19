@@ -1,0 +1,1 @@
+Dependency injection container with manual resolving.
